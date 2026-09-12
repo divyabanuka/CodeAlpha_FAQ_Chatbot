@@ -34,6 +34,6 @@ A simple FAQ Chatbot built using Python and Streamlit.
 pip install -r requirements.txt
 python -m streamlit run app.py
  
- ##Screenshot
- ![FAQ Chatbot](screenshot.png)
- 
+## Screenshot
+
+![FAQ Chatbot](./screenshot.png)
