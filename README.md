@@ -1,14 +1,15 @@
 # CodeAlpha FAQ Chatbot
 
-A simple FAQ Chatbot built using Python and Streamlit.
+A simple and interactive FAQ chatbot developed using Python, Streamlit, and TF-IDF. The chatbot provides answers to frequently asked questions related to Python, Artificial Intelligence, Machine Learning, GitHub, and the CodeAlpha internship.
 
 ## Features
 
-- Answers frequently asked questions
-- Uses text preprocessing
-- Uses TF-IDF Vectorization
-- Finds the best matching question
-- Simple and user-friendly interface
+- 🤖 Interactive FAQ chatbot
+- 💬 Provides instant answers to common questions
+- 🔍 Uses TF-IDF for question matching
+- 🌐 Deployed using Streamlit Community Cloud
+- 📱 Simple and user-friendly interface
+- ⚡ Fast response to user queries
 
 ## Technologies Used
 
@@ -16,6 +17,14 @@ A simple FAQ Chatbot built using Python and Streamlit.
 - Streamlit
 - Scikit-learn
 - TF-IDF Vectorizer
+- Git
+- GitHub
+
+## How It Works
+
+The chatbot uses TF-IDF (Term Frequency-Inverse Document Frequency) to compare the user's question with predefined FAQ questions.
+
+It identifies the most similar question and displays the corresponding answer.
 
 ## Sample Questions
 
@@ -33,7 +42,7 @@ A simple FAQ Chatbot built using Python and Streamlit.
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
- 
+
 ## Screenshot
 
 ![FAQ Chatbot](screenshot.png)
@@ -46,4 +55,4 @@ python -m streamlit run app.py
 
 **Divya Banuka**
 
-[GitHub](https://github.com/divyabanuka)
+[GitHub Profile](https://github.com/divyabanuka)
