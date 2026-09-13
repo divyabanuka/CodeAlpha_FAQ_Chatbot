@@ -34,5 +34,16 @@ A simple FAQ Chatbot built using Python and Streamlit.
 pip install -r requirements.txt
 python -m streamlit run app.py
  
-**## Screenshot**
+## Screenshot
+
 ![FAQ Chatbot](screenshot.png)
+
+## Live Demo
+
+[🚀 Open Live Demo](https://divya-codealpha-faq.streamlit.app/)
+
+## Author
+
+**Divya Banuka**
+
+[GitHub](https://github.com/divyabanuka)
