@@ -42,6 +42,7 @@ It identifies the most similar question and displays the corresponding answer.
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
+```
 
 ## Screenshot
 
